@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Pathology Cheat Sheet</title>
+    <link>http://pathcheatsheet.bitbucket.io/</link>
+    <description>Recent content in Home on Pathology Cheat Sheet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 17:41:32 +0100</lastBuildDate>
+    
+	<atom:link href="http://pathcheatsheet.bitbucket.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Misc</title>
+      <link>http://pathcheatsheet.bitbucket.io/misc/</link>
+      <pubDate>Sun, 07 Oct 2018 19:39:25 +0100</pubDate>
+      
+      <guid>http://pathcheatsheet.bitbucket.io/misc/</guid>
+      <description>Code Text Summary SNOMED     @LIPO This consists of mature adipose tissue consistent with a benign lipoma. There are no atypical features. Lipoma. 88500   @ALIP This consists of mature adipose tissue admixed with arteriole-sized blood vessels consistent with a benign angiolipoma. There are no atypical features. Angiolipoma. 88500   @INSP The specimen is inadequate for assessment of this lesion. x x   @NVAS A and B) Sections show completely transected vas deferens.</description>
+    </item>
+    
+    <item>
+      <title>Skin</title>
+      <link>http://pathcheatsheet.bitbucket.io/skin/</link>
+      <pubDate>Sun, 07 Oct 2018 19:21:25 +0100</pubDate>
+      
+      <guid>http://pathcheatsheet.bitbucket.io/skin/</guid>
+      <description>Melanocytic    Code Text Summary SNOMED     @IDN The skin shows features of a benign melanocytic intradermal naevus. There is no evidence of malignancy. Excision appears complete. Benign melanocytic intradermal naevus. 87500   @CON Sections show features of a benign melanocytic compund naevus. There is no evidence of malignancy. Excision appears complete. Benign melanocytic compund naevus. 87600   @JUN Sections show a benign junctional naevus.</description>
+    </item>
+    
+    <item>
+      <title>H&amp;N</title>
+      <link>http://pathcheatsheet.bitbucket.io/hn/</link>
+      <pubDate>Sun, 07 Oct 2018 19:18:25 +0100</pubDate>
+      
+      <guid>http://pathcheatsheet.bitbucket.io/hn/</guid>
+      <description>Code Text Summary SNOMED     @ALNP Sections show a benign allergic nasal polyp lined by respiratory-type epithelium. The subepithelial tissue is oedematous and myxoid and shows infiltration by mixed inflammatory cells, predominantly eosinophils. There is no evidence of dysplasia or malignancy. Benign allergic nasal polyp. 76800   @INNP Sections show a benign inflammatory nasal polyp lined by respiratory-type epithelium. The subepithelial tissue is oedematous and myxoid and shows infiltration by mixed inflammatory cells.</description>
+    </item>
+    
+    <item>
+      <title>Gynae</title>
+      <link>http://pathcheatsheet.bitbucket.io/gynae/</link>
+      <pubDate>Sun, 07 Oct 2018 19:05:25 +0100</pubDate>
+      
+      <guid>http://pathcheatsheet.bitbucket.io/gynae/</guid>
+      <description>Pregnancy/placenta    Code Text Summary SNOMED     @DECO The entire specimen has been processed. Sections show decidual tissue only. No chorionic villi or fetal parts seen. Decidual tissue only; consistent with recent intra-/extrauterine gestation. 09350 or 28000   @POC Sections show chorionic villi and decidual tissue. There is no evidence of gestational trophoblastic disease. No fetal parts are seen. Products of conception confirmed. 09350 or 28000   @PLN Third trimester placenta with unremarkable membranes and chord; no significant pathology is noted.</description>
+    </item>
+    
+    <item>
+      <title>GI</title>
+      <link>http://pathcheatsheet.bitbucket.io/gigb/</link>
+      <pubDate>Sun, 07 Oct 2018 17:22:25 +0100</pubDate>
+      
+      <guid>http://pathcheatsheet.bitbucket.io/gigb/</guid>
+      <description>GALLBLADDER    Code Text Summary SNOMED     @CCL Sections show features of chronic cholecystitis with cholelithiasis. There is no evidence of dysplasia or malignancy. Chronic cholecystitis with cholelithiasis. 43000   @CCLC Sections show features of chronic cholecystitis with cholelithiasis and cholesterolosis. There is no evidence of dysplasia or malignancy. Chronic cholecystitis with cholelithiasis and cholesterolosis. 43000   @CCN Sections show features of chronic cholecystitis.</description>
+    </item>
+    
+  </channel>
+</rss>
